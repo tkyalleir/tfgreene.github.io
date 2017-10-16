@@ -1,25 +1,92 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "causal ignorance and the illusion of freedom"
 date:   2017-09-09 05:04:50 +0000
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Introduction
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Compatibilists, like Frankfurt, Watson, and Wolf, give criteria to distinguish free actions from unfree actions. They generally accept some sort of determinism—the causal thesis being of a very general form (so that room is left for indeterminism and probabilities)—but their theories are independent of such claims. Thus their philosophies are called positive theories of freedom. That is, they don’t claim any sort of metaphysical freedom in the usual sense, but they do think that there is a legitimate sense in which some actions are free and others aren’t, and they show how this is possible.
 
-Jekyll also offers powerful support for code snippets:
+Their theories work by making distinctions (either in types of actions, sources of motivation, or types of causes) that can differentiate between what should be regarded as free and what should be regarded as unfree (or, at least, what we do regard as free and what we do regard as unfree). Their distinctions are mainly among different psychological causes of and motivations for actions.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+These theories, however, always have counterexamples, and they seem to make arbitrary distinctions. I claim that this is due to their attempt to draw a well-defined boundary for a vague notion. That is, free (or free action, free will, freedom) is a vague concept and can’t be captured by a definition that divides all actions into two categories (or even some more complicated and intricate theory).
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+There are degrees of description and different language is used on different levels. The lowest level (that we currently use) is low-level physics. That is, we can describe the entire world and all events using quantum states. At the other end of the spectrum, the high-level description uses terms like “desire,” “will,” and “freedom.” I take it as given that all these distinct levels are different ways of interpreting, representing, and describing the same world and events.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+I argue that, when we look at the low level description of actions, we realize that there is no distinction between free and unfree events. That is, our ascription of freedom to an action does not correspond to any objective property that can be distinguished on any particular level of descriptions. Thus the distinct category of free will, and the well-defined predicate “free,” is an illusion, and any attempt to give it an explanation (especially at a high level, as the positive theorists do) is doomed to failure.
+
+Clearly, though, we still attribute freedom to certain agents for certain actions, and this must have an explanation. This explanation is rooted in causal awareness. That is, the more aware we are of the causal history—in terms of a low level description—leading to an action, the more likely we are to say the event is caused and unfree. But when we are unaware of the low level description and have only a high level one, we then call the action free. But this distinction has nothing to do with the action itself, only knowledge of its cause, and thus freedom is not only a vague concept, but an illusion.
+
+In this paper, I will present the three positive theories of freedom given by Frankfurt, Watson, and Wolf. I will then show the problems these theories have, both individually and in common. I then give my own theory of free will and explain how it avoids the objections to the positive theories. I conclude that ascriptions of free will are a mere habit arising out of ignorance, and thus that (the commonly accepted notion of objective or metaphysical) free will is an illusion.
+
+Positive Theories of Freedom
+
+Philosophers who argue for positive theories of freedom generally try to give a conception of the self that can explain not only how free actions are possible, but which actions are free. Here we will look at three major positive theories of freedom (each of which was formulated as a response to or revision of the previous one(s))—those given by Frankfurt, Watson, and Wolf. For the sake of simplicity and easy comparison, we will explain only what is essential to each view and consider the same examples (inspired by Frankfurt) in each case: the drug user or willing addict and the unwilling addict.
+
+In his “Freedom of the Will and the Concept of a Person,” Frankfurt gives a theory of desires, the will, and actions that attempts to explain which actions are free (that is, free in an important sense). His theory rests on two major distinctions: desires versus volitions; and first-order desires versus second-order desires. A (first-order) desire is simply a desire to act. A (first-order) volition, on the other hand, is an effective desire—that is, a desire that actually moves one to action. But we also have second-order desires. These are desires to have first-order desires. Correspondingly, we have second-order volitions which are second-order desires to have first-order volitions—that is, a desire to have another desire be effective. An agent acts freely (or “of his own free will” in Frankfurt’s terms, but we will make no distinction here) if her actions are in accordance with her second-order volitions (which entails that the actions will also be in accordance with her second-order desires, first-order desires, and first-order volitions). That is, an agent performs a free action when the action follows from his whole person or true self.
+
+Now consider the drug user or willing addict. She not only wants to do the drug and does so (first-order desire/volition), but she also wants to want to do the drug (second-order desire/volition). Thus her doing drugs is free. The unwilling addict, on the other hand, wants to take drugs and does so (first-order desire/volition), but she wants to not want to take drugs. Thus there is no second-order desire or volition for her actions, and so she is not free.
+
+In his “Free Agency,” Watson presents a theory that is arguably equivalent to Frankfurt’s. The easiest way to explain Watson’s theory is in terms of Frankfurt’s. Although this is controversial, the small distinctions are not so important to the argument of this paper, so we will go with it. Watson changes Frankfurt’s first-order desires and second-order desires to wants and values, respectively. Thus an action is free when it follows from the agent’s wants and values. Again we get the idea that an agent performs a free action when the action follows from his true self.
+
+We consider the drug user again. She not only wants to take drugs, but she values taking them too. So she is free. The unwilling addict, on the other hand, wants to take drugs but doesn’t value taking them. Thus she is not free.
+
+In her “Sanity and the Metaphysics of Responsibility,” Wolf presents a theory that is meant to encompass the essential features of both Frankfurt’s and Watson’s theories, but fill the gap their theories miss (this gap will be presented in the next section). Wolf accepts the Frankfurt-Watson theory (calling it the deep-self view) as necessary but adds the condition of sanity to make it sufficient. Sanity is defined as the ability to know both what one is doing and that it is right or wrong. Thus an action is free when its motivation originates from the deep-self (meaning it is in agreement with second-order desires or values) of a sane agent.
+
+Under this view, assuming that the drug user, willing or unwilling, is sane, we get the same results as we did with Frankfurt’s and Watson’s theories. But the sanity condition is supposed to have the following added bonus. If our willing drug user had been brought up in a household in which everyone did lots of drugs and was always told drugs were good, we would not want to hold her responsible for her drug use. Thus, we could call her insane and her drug use unfree.
+What all the positive theories of freedom have in common is their attempt to combine the physical desires with the rational desires to reveal a true self. Then an action is free when the true self is the source of motivation for the act.
+
+Problems
+
+There are several problems with these theories, both individually and in general. The counterexample to Frankfurt’s and Watson’s view was just presented in the example for Wolf’s theory. We will go over it again briefly. We consider an agent who has been brainwashed (either for a short period or from birth) and then performs some action. Under Frankfurt’s and Watson’s analyses, we would have to say that the agent is free because all of her desires and values will match her action. Wolf tries to get around this problem with her condition of sanity. But sanity, as she defines it, is an ability to know right from wrong or cognitively and normatively understand and appreciate the world. But this is exactly what life-long brainwashing does. It does not remove all conceptions of right and wrong or inhibit one’s ability to understand the world. It simply molds these abilities to a certain way of thinking. Thus none of the views can account for such an uncontroversially unfree action as brainwashing.
+
+Besides having such cases they cannot account for, they have some general problems. First of all, they each introduce new terms or at least introduce new distinctions for commonly accepted notions. Although this is the hallmark of philosophy, it’s better not to base a whole theory around them, if possible.
+
+But regardless of the fact that they may be introducing unnecessary distinctions, their distinctions seem arbitrary. For example, in Frankfurt’s case, why distinguish between first- and second-order desires and not between 13th and 14th?
+
+Another problem with these distinctions is that they all deal with psychological terms: desire, want, self, and others. Granted, we are dealing with the concept of free will, so we can hardly get by without the use of such words. But unless we are to give a naturalist theory and actually use psychology in our justification, it seems best to avoid such heavy reliance on a psychological distinction so subtle as orders of desires, at least to whatever extent possible.
+
+I admit that these last few objections are vague and weak (and are only based on my personal feeling at best), but the counterexamples presented above show that something is amiss with these theories, and I think it lies in the very nature of their approach: that is, to show free will to be a result of objective psychological facts about the agent.
+
+Theory of Causal Awareness
+
+I will now present my own theory of free will. It is based on a simple claim: that our ascription of freedom to an agent is based, not necessarily on psychological or metaphysical facts, but on our knowledge of the causal history of an action. More precisely, the more ignorant we are of the causal sequence of events leading up to an action, the more freedom we attribute to the agent. The notion of knowledge of a causal sequence I have in mind is a particular one, which I will now describe.
+
+There are different levels of causal explanation, which use different language, and corresponding different levels of knowledge. The easiest way to get this meaning across is with an example. Consider a particular action, say Harry buying a pack of gum. There are different levels on which we can explain the causal history of this event. The highest level is to say that Harry desired a pack of gum, so he bought it. A medium-level of description is to say that Harry just ate an onion burger and is about to go on a date and gum makes breath smell better, so he bought it. To give a description at the lowest level would be to give the entire quantum state of the universe plus the laws of physics, thus show that Harry would by the gum.
+
+The nature of this level distinction is similar to one sometimes used in the philosophy of science:
+
+quantum mechanics <— physics <— chemistry <— biology <— psychology
+
+The arrows represent the fact that explanations at a higher level (on the right) can, with adequate knowledge, be reduced to explanations at a low lower level (on the left). In the example with Harry, we gave a high-level explanation purely with psychology, then a medium-level explanation with some chemistry or biology (and maybe a little implicit psychology—that Harry wanted his breath to smell good on his date), and then a low-level description with quantum mechanics. Personally, I believe that any explanation at a higher level can be reduced to a corresponding explanation at a lower level. But this is very controversial, and not necessary for my theory. All my theory requires is that for any event we can give some explanation at any level (provided adequate knowledge). For example, it is not necessary that the entire quantum state explain or be equivalent to Harry’s desire. All that matters is that both types of explanation describe the action.
+
+With the notion of levels of explanation at our disposal, we can examine how they figure in with our ascriptions of free will to actions in different circumstances. Consider again Harry’s buying the pack of gum. This appears to be a free action. Harry has not been brainwashed by advertising to buy gum, nor is someone holding a gun to his head forcing him to buy it. He is simply choosing to buy gum. Now, referring back to earlier, we see that we had a high-level causal explanation, and a slightly lower one, but no explanation on the lowest levels.
+
+Now consider an action at the opposite end of the spectrum: Harry pushes Gary and he bumps into Susan, thereby spilling her boiling hot coffee all over her. In this case, we would not say that Gary acted freely. On the contrary, as my description of the event shows, he was caused to do what he did. In this case, our only explanation of Gary’s action is on the low level of physics.
+
+I claim that our type of explanation of the action is directly linked to our ascription of freedom to the agent. In the case where we have a high-level causal explanation, we attribute freedom. In the case where we have a low-level causal explanation, we don’t attribute freedom. Thus whether or not we attribute freedom to an agent is directly related to the type of knowledge we have of the event or to the level of causal explanation we can give. That is, ascriptions of freedom are based on causal awareness (or causal ignorance, to be more precise).
+
+One consequence of this theory (or realization, rather) is that freedom comes in degrees. With borderline examples, we often give explanations that mix terms from different levels or simply interpret actions in different ways. Thus we can say that some actions are more free than others. And any attempt to draw a line will be arbitrary and fail to match experience in some cases. Given the source of our ascriptions of freedom, it is clear that the question of whether or not an agent actually performs some act freely is incoherent. Freedom is not an objective property of agents or actions, but a vague concept we apply in certain cases depending upon our knowledge of the circumstances.
+
+Solutions
+
+Now that we know what the Theory of Causal Awareness is, we can see how it matches up with traditional positive theories of freedom. We will see that not only does it explain the paradigm cases of the other theories, but also it avoids the problems associated with those theories.
+
+That latter point just made is easily justified. The Theory of Causal Awareness introduces no new psychology terminology or distinctions. It only makes one distinction dealing with types of explanation. And there is no objection to this, for the distinction is not even meant to be well-defined. That is, there is an explanation gradient, so free will comes in degrees. Thus the new theory avoids the sort of methodological objections to the positive theories of freedom.
+
+More importantly, however, the Theory of Causal Awareness allows us to explain our ascriptions just as well as the other theories, while not being subject to the counterexamples. Consider, for the last time, the drug users. In the case of the willing user, our description of the causal history will be something like the following: she uses drugs because she wants to, she values them, she thinks they’re cool, or they help her do her homework. These are all high-level causes. Although there may be lots of reasons for her use, the most precise explanation we can give still relies on her desires—a high-level term.
+
+The explanation for the unwilling addict, however, is very different. In this case, we can still give the high-level explanation: she does drugs because she wants to. But what is distinct in this case is that we have a lower-level explanation in addition: she has an addiction, or the chemicals in the drug affect the chemicals in her brain in just the right way making it impossible for her to stop taking the drug. It is our awareness of this lower-level explanation that makes us not attribute freedom to the unwilling addict.
+
+The case for the victim of brainwashing is similar: we are aware of a lower level of explanation for the causal history. For example, suppose a hypnotist tells someone that when he snaps his fingers, she will quack like a duck, and, in addition, she will want to quack like a duck with her deepest self and have the ability to realize this is the right thing to do. By the positive theories of freedom, this would have to be considered a free action. But we have an easy explanation in low-level terms (at least as low as biology). In fact, I just gave it: the hypnotist told the agent to do so.
+
+Conclusion
+
+Positive theories of freedom introduce unnecessary (and possibly non-existent) terms and distinctions. They try to draw determinate lines in attributing freedom to agents for actions. But these lines aren’t determinate. We have to look at the most obvious evidence used for attributing freedom. This is knowledge of causal history. It is not the objective causal sequence that makes an action free or unfree, but it is our degree of awareness of the causal sequence that leads us to attribute a certain amount of freedom to the agent. This solution to the problem of free will is compatible with any theory of causal determination, but doesn’t need to create new metaphysical categories and introduce arbitrary distinctions.
+
+That the notions based on the term “free” are vague may not be enough reason to throw away the concept of free will. But it does show a discrepancy between what happens and what we think. When we blame an agent for an act, we do so because we think she acted freely and was therefore responsible. But once we see that all this happens in different degrees (not that it simply applies in some cases and not others), it reveals what underlies our judgments of freedom and responsibility. That is, we now see that freedom and responsibility are based mainly on our awareness of the causal history. But this fact is certainly not what we are aware of when blaming someone for an act. Thus there is something deeply wrong with our responses to actions, which can be realized by noticing that these notions are vague.
+
+And this problem—between what we think we're doing when making moral judgments, and what we're actually doing—shows that it is not how the positive theorists would have us believe. They say we should use objective criteria to determine which actions count as free and are blameworthy. But clearly this does not solve any problems and only introduces arbitrary distinctions based on how we feel, which, as we have shown, is only a result of our limited knowledge, and thus not an adequate basis for moral claims.
+
+In conclusion, the Theory of Causal Awareness can explain the use of terms dealing with freedom just as well as the positive theories of freedom. Moreover, it makes no objective psychological claims about the nature of the self. Thus it is free from the common objections put against the positive theories of freedom. The Theory of Causal Awareness, however, is not really a compatibilist theory. It does not show that or how actions can be free, but explains where our ascriptions of freedom come from. This should be seen, however, as a positive feature of the theory.
